@@ -2,7 +2,7 @@ def hola
     yield
 end
 
-hola do |; name|
+hola do |name|
     name = "Marcos"
     puts "Hola #{name}"
 end
