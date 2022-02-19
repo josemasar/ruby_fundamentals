@@ -22,14 +22,14 @@ The trainee should stablish the **logic** when comparing the input and output.
      - A good understanding of Data Types from lesson 1 to 5 is vital to continue with the next lessons. 
      - The pace should not be necessarily fast and each lesson may require up to 90 minutes. 
      - Let the trainee ask questions and try no-sense or better code in `irb`.  
-     - 
+  
 2. When the trainee demonstrates to understand the topic and feels familiar with the syntax, it is time to complete the exercises in the 'Exercise' file. 
 
     - It is vital to adopt an attitude to keep the student motivated. 
     - I used senteces like: 
       - `We´re not far away from starting with Classes and Ruby is not much more than this.`
       - `You´re becoming a hacker! Keep on coding!`
-      - `When you know well one language, learning another language is much easier.`
+      - `When you know well one language, learning another is much easier.`
     - Ask the student which projects is intending to build in the future. 
 
 3. Make emphasis that code can only be learnt after an amount of study hours. The `Homework` that should be given as a project to think about all concepts covered until this point. The exercises are designed to employ concepts from the previous lessons. 

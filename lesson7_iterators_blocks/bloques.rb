@@ -17,6 +17,20 @@ puts impares
 
 =end
 
-["Josema","Francisco","Luis"].each_with_index do |name,index|
-    puts "#{index}.-#{name}"
+# ["Josema","Francisco","Luis"].each_with_index do |name,index|
+#     puts "#{index}.-#{name}"
+# end
+
+array = ["Maus", 5, true]
+
+array.each do |item|
+    if item.class.name != "String" 
+        new_item = item.to_s
+        puts new_item
+        puts new_item.class.name
+    else
+      puts item
+      puts "I´m already a string"     
+    end
 end
+    
