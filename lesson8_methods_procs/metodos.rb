@@ -14,6 +14,7 @@ puts square("3")
 puts square(2)
 =end
 
+#The **x is the same as variable arguments, but for keyword arguments. It will be a hash instead of an array.
 
 def hola(nombre:, edad:0, **options)
     #nombre: es un argumento obligatorio
